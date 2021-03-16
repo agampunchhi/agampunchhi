@@ -3,9 +3,9 @@
 <!--**agampunchhi/agampunchhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-![Header](https://raw.githubusercontent.com/agampunchhi/agampunchhi/main/agampunchhi.png "Header")
+![Header](https://raw.githubusercontent.com/agampunchhi/agampunchhi/master/agampunchhi.png "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/agampunchhi/agampunchhi/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/agampunchhi/agampunchhi/master/wave.gif" width="30px">
 My name is Agam Punchhi and I'm an upcoming app developer. I'm from India. You can find me on [Twitter][1],  or on [LinkedIn][3].
 Here are some ideas to get you started:
 
