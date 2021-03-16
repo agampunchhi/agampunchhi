@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
