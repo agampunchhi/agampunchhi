@@ -6,7 +6,7 @@
 ![Header](https://raw.githubusercontent.com/agampunchhi/agampunchhi/main/agampunchhi.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/agampunchhi/agampunchhi/main/wave.gif" width="30px">
-My name is Agam Punchhi and I'm an upcoming app developer. I'm from India. You can find me on [![Twitter]][1],  or on [![LinkedIn]][3].
+My name is Agam Punchhi and I'm an upcoming app developer. I'm from India. You can find me on [Twitter][1],  or on [LinkedIn][3].
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: Machine Learning with Python.
