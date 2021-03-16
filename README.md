@@ -6,7 +6,7 @@
 ![Header](https://raw.githubusercontent.com/agampunchhi/agampunchhi/main/agampunchhi.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/agampunchhi/agampunchhi/main/wave.gif" width="30px">
-My name is Agam Punchhi and I'm an upcoming app developer. I'm from India. You can find me on [<img alt="Twitter" src="https://img.shields.io/badge/agam_punchhi%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][1],  or on [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][3].
+My name is Agam Punchhi and I'm an upcoming app developer. I'm from India. You can find me on [!Twitter][1.2][1],  or on [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][3].
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: Machine Learning with Python.
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 [2]: https://github.com/agampunchhi
 [3]: http://linkedin.com/in/agam-punchhi-261428200
 
+[1.2]: http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
