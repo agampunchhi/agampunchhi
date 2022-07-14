@@ -9,7 +9,7 @@
 My name is Agam Punchhi and I'm an upcoming app developer. I'm from India. You can find me on [Twitter][1],  or on [LinkedIn][3].
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning: Machine Learning with Python.
+- 🌱 I’m currently learning: ReactJS.
 - 🤝 I’m looking to collaborate on projects and hackathons.
 - 🤔 I’m looking for help with front-end development technologies.
 - 💬 Ask me about anything, open to help!
